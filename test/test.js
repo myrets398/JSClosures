@@ -24,4 +24,3 @@ var expect = chai.expect;
       expect(cc.counter()).to.eql(9)
     })
   })
-})
